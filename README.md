@@ -19,3 +19,12 @@ BOM:
 |![image](https://github.com/user-attachments/assets/fb373861-e162-4ace-9c92-fd48a1fd69d2)|![image](https://github.com/user-attachments/assets/cfbf3ff1-081e-4513-9325-024fa989f5a1)|
 
 And it sounds like this in action https://youtube.com/shorts/cKAM5VnGr6U?feature=share
+
+# Version 2
+This update fixes a few errors from the initial release and introduces an option for sound enhancement:
+
+* bypassed the anti-aliasing filter and somewhat improved the bass response
+* option to switch between original or improved output (using jumper)
+* C7 - changed from Ceramic 1uF to Electrolytic 10uF
+
+The sound improvement modification was suggested by D.A. Wilson of Hideaway Studio and is used here with permission. You can read about the mod [here](https://spectrumcomputing.co.uk/forums/viewtopic.php?t=4845)
