@@ -45,6 +45,6 @@ BOM:
 * 1 x 74LS32
 * 1 x TL084
 * 1 x ZN428E-8
-* 3.5 mono jack
+* 3.5 mono jack [like this](https://elektronik-lavpris.dk/p136328/pj-211-35mm-mono-jack-chassis-med-afbryder-switch/)
 
 The sound improvement modification was suggested by D.A. Wilson of Hideaway Studio and is used here with permission. You can read about the mod [here](https://spectrumcomputing.co.uk/forums/viewtopic.php?t=4845)
