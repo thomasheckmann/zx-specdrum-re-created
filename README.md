@@ -52,3 +52,13 @@ BOM (recommended order):
 * 3.5 mono jack [like this](https://elektronik-lavpris.dk/p136328/pj-211-35mm-mono-jack-chassis-med-afbryder-switch/)
 
 The sound improvement modification was suggested by D.A. Wilson of Hideaway Studio and is used here with permission. You can read about the mod [here](https://spectrumcomputing.co.uk/forums/viewtopic.php?t=4845)
+
+## Version v1.2
+[Hear the interface](https://youtube.com/shorts/OHfJIYJJYTI) in action here, playing a demo from the original [software](https://spectrumcomputing.co.uk/entry/8720/ZX-Spectrum/SpecDrum)
+
+| <!---> | <!---> |
+| ------ | ------ |
+|![image](https://github.com/user-attachments/assets/cebd3cdd-2632-40d4-959f-39e60309c6e8)|![image](https://github.com/user-attachments/assets/842c45b8-aab6-48e9-91f4-8cdb25b953d5)|
+
+
+
