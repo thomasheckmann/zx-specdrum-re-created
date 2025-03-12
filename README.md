@@ -1,5 +1,5 @@
 # zx-specdrum-re-created
-Recreated and improved version of Currah Specdrum Interface for ZX Spectrum
+Recreated and improved version of [Currah SpecDrum](https://spectrumcomputing.co.uk/entry/1000062/Hardware/Cheetah_SpecDrum) Interface for ZX Spectrum
 
 Work on this was initiated because existing schema found on the internet is with errors.
 
