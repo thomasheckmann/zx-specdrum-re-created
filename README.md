@@ -27,21 +27,25 @@ This update fixes a few errors from the initial release and introduces an option
 * option to switch between original or improved output (using jumper)
 * C7 - changed from Ceramic 1uF to Electrolytic 10uF
 
-BOM:
-* 3 x 1uF - Tantal P5,08
-* 1 x 22uF - Electrolyte Capacitor P2,54
+BOM (recommended order):
+* 4 x 6,2K Resistor
+* 2 x 10,0K Resistor
+* 2 x 100K Resistor
+* 1 x 390R Resistor
+* 1 x 680R Resistor
+* 1 x 390K Resistor
+
+* 3 x 100nF - MLC Capacitor P2,54
+* 1 x 1nF - Ceramic Capacitor P2,54
+
 * 1 x 2,7nF - Ceramic Capacitor P2,54
 * 1 x 2,2nF - Ceramic Capacitor P2,54
 * 1 x 82pF - Ceramic NPO P5,08
+
+* 3 x 1uF - Tantal P5,08
+* 1 x 22uF - Electrolyte Capacitor P2,54
 * 1 x 10uF - Electrolyte Capacitor P2,54
-* 1 x 1nF - Ceramic Capacitor P2,54
-* 3 x 100nF - MLC Capacitor P2,54
-* 1 x 390R Resistor
-* 1 x 390K Resistor
-* 2 x 100K Resistor
-* 2 x 10,0K Resistor
-* 4 x 6,2K Resistor
-* 1 x 680R Resistor
+
 * 1 x 74LS32
 * 1 x TL084
 * 1 x ZN428E-8
