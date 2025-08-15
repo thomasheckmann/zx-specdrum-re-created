@@ -4,7 +4,7 @@ Recreated and improved version of [Currah SpecDrum](https://spectrumcomputing.co
 Work on this was initiated because existing schema found on the internet is with errors.
 
 # Version 1
-First version is more or less a 1:1 copy of the original interface. With help I got the correct values and type for all the Capacitors. Thanks to Matthew Logue for providing the information from his original interfaces, helping our with how to use the old software as well as doing a test build of the interface.
+First version is more or less a 1:1 copy of the original interface. With help I got the correct values and type for all the Capacitors. Thanks to Matthew Logue for providing the information from his original interfaces, helping out with how to use the old software as well as doing a test build of the interface.
 
 The only changes compared with original:
 * PCB made more compact to fit into my ZX-Bus-Extender board, you can use a normal edge connecter if you prefer.
